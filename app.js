@@ -13,6 +13,8 @@ const passport = require('passport')
 const passportLocalMongoose = require('passport-local-mongoose')
 const session = require('express-session')
 
+//console.log('test');
+
 
 const app = express()
 
